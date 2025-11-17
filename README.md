@@ -1,4 +1,4 @@
-# Lung Cancer Detection using Machine Learning
+# Lung Cancer Prediction using Machine Learning
 
 - If lung cancer is found at an earlier stage, when it is small and before it has spread, it is more likely to be treated successfully. Lung cancer screening is recommended for certain people who smoke or used to smoke, but who don't have any signs or symptoms. If a person has lung cancer but doesn't have any symptoms, this usually means there's a chance to detect the disease early.
 
